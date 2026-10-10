@@ -1,3 +1,3 @@
 ## Live Demo
 
-Play EcoQuest here: PASTE_YOUR_REPLIT_WEBSITE_LINK_HERE
+Play EcoQuest here: https://eco-quest-save-the-planet--mahanthipallavi.replit.app
